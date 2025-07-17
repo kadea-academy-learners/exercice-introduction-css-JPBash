@@ -1,3 +1,45 @@
+body {
+    background-color: #e0e0e0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    align-content: center;
+    
+}
 
+figcaption {
+    margin-top: 20px;
+    }
+    
+header {
+padding: 20px;
+text-align: center;
 
+ }
+ .bio-figure {
+    background-color: #ffff;
+    padding: 20px;
+    text-align: center;
+ }
 
+.main-content {
+    width: 50%;
+    margin : 0 auto;
+
+ }
+
+ .main-content ul li {
+    line-height: 1.7em;
+
+ }
+
+ .main-content h2 {
+text-align: center;
+    }
+    
+.main-footer p {
+text-align: center;
+    }
+
+.main-footer {
+margin-top: 50px;
+    }    
